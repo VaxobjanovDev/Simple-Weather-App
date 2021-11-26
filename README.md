@@ -1,6 +1,6 @@
-# Dictionary
+# Simple weather app
 
-You can see this simple app https://definitions-app.netlify.app
+You can see this simple app https://simple-weather-apps.netlify.app
 
 ## Available Scripts
 
